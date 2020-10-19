@@ -1,0 +1,6 @@
+django~=3.0.0
+requests
+BeautifulSoup4
+html5lib
+python-telegram-bot
+lxml
